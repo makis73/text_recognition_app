@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "886620142375",
+    "project_id": "text-recognition-app-b22b2",
+    "storage_bucket": "text-recognition-app-b22b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886620142375:android:cdadc107c523b5d5908702",
+        "android_client_info": {
+          "package_name": "tom.makrodi.text_recognition_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886620142375-ku1eg4v73hieveaeekehke6ae02rpt57.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOLKokZl95-Kg-iLvnipHHLz5rVBJ8QQk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886620142375-ku1eg4v73hieveaeekehke6ae02rpt57.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
